@@ -14,7 +14,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1WPxIDDe53wXkzZqJS4gwoFqv8W" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -23,21 +27,45 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/ch06" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\PythonProject\network_test\ch04" />
-      <recent name="D:\PythonProject\network_test" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\PythonProject\ch06" />
+      <recent name="D:\PythonProject\common" />
       <recent name="D:\PythonProject" />
       <recent name="D:\PythonProject\network_test" />
       <recent name="D:\PythonProject\dataset" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\PythonProject\network_test\ch04" />
+      <recent name="D:\PythonProject\network_test" />
+    </key>
   </component>
-  <component name="RunManager" selected="Python.gradient_check">
+  <component name="RunManager" selected="Python.test">
+    <configuration name="batch_norm_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch06" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch06/batch_norm_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="gradient_check" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -60,7 +88,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="layer_naive" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="overfit_weight_decay" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -68,12 +96,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch05" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch06" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch05/layer_naive.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch06/overfit_weight_decay.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -82,7 +110,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="python_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="overfit_weight_decay" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -90,12 +118,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/network_test" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="WORKING_DIRECTORY" value="E:/资料/deep-learning-from-scratch-master/ch06" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/network_test/python_test.py" />
+      <option name="SCRIPT_NAME" value="E:/资料/deep-learning-from-scratch-master/ch06/overfit_weight_decay.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -104,7 +132,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="train_neuralnet" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -112,12 +140,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/network_test/ch04" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tensorflow_test" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/network_test/ch04/train_neuralnet.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tensorflow_test/test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -148,7 +176,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="two_layer_net" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="train_neuralnet" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -156,12 +184,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/network_test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/network" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="D:\PythonProject\network_test\ch04\two_layer_net.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/network/train_neuralnet.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -193,19 +221,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.python_test" />
-      <item itemvalue="Python.train_neuralnet" />
-      <item itemvalue="Python.two_layer_net" />
-      <item itemvalue="Python.layer_naive" />
       <item itemvalue="Python.gradient_check" />
+      <item itemvalue="Python.train_neuralnet" />
+      <item itemvalue="Python.batch_norm_test" />
+      <item itemvalue="Python.overfit_weight_decay" />
+      <item itemvalue="Python.test" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.gradient_check" />
-        <item itemvalue="Python.layer_naive" />
+        <item itemvalue="Python.test" />
         <item itemvalue="Python.train_neuralnet" />
-        <item itemvalue="Python.train_neuralnet" />
-        <item itemvalue="Python.two_layer_net" />
+        <item itemvalue="Python.overfit_weight_decay" />
+        <item itemvalue="Python.overfit_weight_decay" />
+        <item itemvalue="Python.batch_norm_test" />
       </list>
     </recent_temporary>
   </component>
@@ -238,7 +266,7 @@
       <workItem from="1580798312042" duration="46142000" />
       <workItem from="1581557968017" duration="14285000" />
       <workItem from="1589784775534" duration="5063000" />
-      <workItem from="1589798800935" duration="14899000" />
+      <workItem from="1589798800935" duration="24333000" />
     </task>
     <servers />
   </component>
@@ -246,34 +274,42 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="414" y="154" width="1092" height="762" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589785754163">
+    <state x="414" y="154" width="1092" height="762" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590132041996">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="414" y="154" width="1092" height="762" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1589785754163" />
+    <state x="414" y="154" width="1092" height="762" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1590132041996" />
     <state x="670" y="323" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1581515903305">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="670" y="323" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1581515903305" />
-    <state width="1855" height="282" key="GridCell.Tab.0.bottom" timestamp="1589900461399">
+    <state x="565" y="152" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1590130968730">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1855" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1589900461399" />
-    <state width="1855" height="282" key="GridCell.Tab.0.center" timestamp="1589900461399">
+    <state x="565" y="152" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1590130968730" />
+    <state x="569" y="164" key="FileChooserDialogImpl" timestamp="1590065335207">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1855" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1589900461399" />
-    <state width="1855" height="282" key="GridCell.Tab.0.left" timestamp="1589900461399">
+    <state x="569" y="164" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1590065335207" />
+    <state width="1855" height="282" key="GridCell.Tab.0.bottom" timestamp="1590139106511">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1855" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1589900461399" />
-    <state width="1855" height="282" key="GridCell.Tab.0.right" timestamp="1589900461399">
+    <state width="1855" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1590139106511" />
+    <state width="1855" height="282" key="GridCell.Tab.0.center" timestamp="1590139106511">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1855" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1589900461399" />
-    <state x="154" y="125" key="SettingsEditor" timestamp="1589785174155">
+    <state width="1855" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1590139106511" />
+    <state width="1855" height="282" key="GridCell.Tab.0.left" timestamp="1590139106511">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="154" y="125" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1589785174155" />
+    <state width="1855" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1590139106511" />
+    <state width="1855" height="282" key="GridCell.Tab.0.right" timestamp="1590139106511">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1855" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1590139106511" />
+    <state x="154" y="0" key="SettingsEditor" timestamp="1590065342136">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="154" y="0" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1590065342136" />
     <state x="519" y="186" width="1005" height="561" key="search.everywhere.popup" timestamp="1590041869602">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
@@ -282,16 +318,19 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PythonProject$forward_test.coverage" NAME="forward_test Coverage Results" MODIFIED="1580893554689" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/network_test" />
-    <SUITE FILE_PATH="coverage/PythonProject$train_neuralnet__1_.coverage" NAME="train_neuralnet Coverage Results" MODIFIED="1589785768259" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/network" />
+    <SUITE FILE_PATH="coverage/PythonProject$batch_norm_test.coverage" NAME="batch_norm_test Coverage Results" MODIFIED="1590130982672" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch06" />
+    <SUITE FILE_PATH="coverage/PythonProject$overfit_weight_decay__1_.coverage" NAME="overfit_weight_decay Coverage Results" MODIFIED="1590132007311" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch06" />
     <SUITE FILE_PATH="coverage/PythonProject$neuralnet_mnist.coverage" NAME="neuralnet_mnist Coverage Results" MODIFIED="1580958231096" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/network_test" />
+    <SUITE FILE_PATH="coverage/PythonProject$overfit_weight_decay.coverage" NAME="overfit_weight_decay Coverage Results" MODIFIED="1590131737493" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/资料/deep-learning-from-scratch-master/ch06" />
     <SUITE FILE_PATH="coverage/PythonProject$mnist.coverage" NAME="mnist Coverage Results" MODIFIED="1580908487317" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dataset" />
     <SUITE FILE_PATH="coverage/PythonProject$python_test.coverage" NAME="python_test Coverage Results" MODIFIED="1581086332857" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/network_test" />
+    <SUITE FILE_PATH="coverage/PythonProject$gradient_check.coverage" NAME="gradient_check Coverage Results" MODIFIED="1589893897014" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch05" />
+    <SUITE FILE_PATH="coverage/PythonProject$train_neuralnet__1_.coverage" NAME="train_neuralnet Coverage Results" MODIFIED="1590132044820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/network" />
     <SUITE FILE_PATH="coverage/PythonProject$two_layer_net__1_.coverage" NAME="two_layer_net (1) Coverage Results" MODIFIED="1581486905001" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/network_test/ch04" />
     <SUITE FILE_PATH="coverage/PythonProject$layer_naive.coverage" NAME="layer_naive Coverage Results" MODIFIED="1589792603606" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch05" />
-    <SUITE FILE_PATH="coverage/PythonProject$test.coverage" NAME="test Coverage Results" MODIFIED="1580876163290" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tensorflow_test" />
     <SUITE FILE_PATH="coverage/PythonProject$two_layer_net.coverage" NAME="two_layer_net Coverage Results" MODIFIED="1581484520021" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/network_test" />
+    <SUITE FILE_PATH="coverage/PythonProject$test.coverage" NAME="test Coverage Results" MODIFIED="1590139106504" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tensorflow_test" />
     <SUITE FILE_PATH="coverage/PythonProject$mnist_show.coverage" NAME="mnist_show Coverage Results" MODIFIED="1580911437767" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/network_test" />
     <SUITE FILE_PATH="coverage/PythonProject$train_neuralnet.coverage" NAME="train_neuralnet Coverage Results" MODIFIED="1589784935655" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/network_test/ch04" />
-    <SUITE FILE_PATH="coverage/PythonProject$gradient_check.coverage" NAME="gradient_check Coverage Results" MODIFIED="1589893897014" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch05" />
   </component>
 </project>
