@@ -1,8 +1,10 @@
-import numpy as np
+import tensorflow as tf
+tf.compat.v1.disable_eager_execution()
 
-x = np.random.randn(10,1,28,29)
-print(x.shape)
-out = x.reshape(-1,10)
-print(out.shape)
 
-print(x.T.shape)
+a = tf.constant([1.0,2.0],name="a")
+b = tf.constant([3.0,4.0],name="b")
+
+result = a+b
+sess = tf.compat.v1.Session()
+print(sess.run(result))
