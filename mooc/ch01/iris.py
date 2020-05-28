@@ -42,7 +42,7 @@ lr = 0.1  # 学习率
 epoch = 500  # 循环500轮
 loss_all = 0  # 每轮分4个step，loss_all记录四个step生成的4个loss的和
 train_loss_result = []  # 记录下每轮训练的loss值
-test_acc=[] # 每轮测试准确率
+test_acc = []  # 每轮测试准确率
 
 # 训练部分
 for i in range(epoch):
@@ -76,5 +76,22 @@ for i in range(epoch):
     # 总的准确率等于total_correct/total_number
     acc = total_correct / total_number
     test_acc.append(acc)
-    print("Test_acc:",acc)
+    print("Test_acc:", acc)
     print("--------------------")
+
+# 数据可视化
+# 绘制loss曲线
+plt.title('loss fucntion curve')  # 图片标题
+plt.xlabel('epoch') # x轴变量名称
+plt.ylabel('loss') # y轴变量名称
+plt.plot(train_loss_result,label = "$loss$")
+plt.legend() #画出曲线图标
+plt.show()
+
+#绘制Accuracy曲线
+plt.title('accuracy curve')
+plt.xlabel('epoch')
+plt.ylabel('accuracy')
+plt.plot(test_acc,label = "$accuracy$")
+plt.legend()
+plt.show()
